@@ -13,3 +13,6 @@ This project is used to practice Git and GitHub collaboration workflows.
 3. Make the changes
 4. Submit a pull request
 5. Review and merge the pull request
+
+## Feature Description
+This project demonstrates how contributors can propose changes, discuss them through issues, and submit improvements using pull requests.
