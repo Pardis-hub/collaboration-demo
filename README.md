@@ -6,3 +6,10 @@ This project is used to practice Git and GitHub collaboration workflows.
 - Open an issue
 - Create a branch
 - Submit a pull request
+
+## Workflow
+1. Open an issue
+2. Create a branch
+3. Make the changes
+4. Submit a pull request
+5. Review and merge the pull request
