@@ -19,3 +19,6 @@ This project demonstrates how contributors can propose changes, discuss them thr
 
 ## Project Status
 This project demonstrates GitHub collaboration, code review, conflict resolution, and rebase workflows.
+
+## CI
+This project uses GitHub Actions for continuous integration.
