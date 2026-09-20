@@ -16,3 +16,6 @@ This project is used to practice Git and GitHub collaboration workflows.
 
 ## Feature Description
 This project demonstrates how contributors can propose changes, discuss them through issues, and submit improvements using pull requests.
+
+## Project Status
+This project demonstrates GitHub collaboration, code review, conflict resolution, and rebase workflows.
